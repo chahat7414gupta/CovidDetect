@@ -109,5 +109,5 @@ Evaluate the model on the test set and compute the following metrics:
 ## **How to Run the Project**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/CovAid.git
+   git clone [https://github.com/your-repo/CovAid.git](https://github.com/chahat7414gupta/CovidDetect)
    cd CovAid
